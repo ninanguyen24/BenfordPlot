@@ -1,0 +1,247 @@
+China	1369480000
+India	1270250000
+United	320865000
+Indonesia	255461700
+Brazil	204215000
+Pakistan	189607000
+Nigeria	183523000
+Bangladesh	158223000
+Russia	146267288
+Japan	126910000
+Mexico	121005815
+Philippines	101345800
+Vietnam	91583000
+Ethiopia	90076012
+Egypt	88404300
+Germany	81083600
+Iran	78287900
+Turkey	77695904
+Democratic Republic of the Congo	71246000
+France	66121000
+Thailand	65104000
+United Kingdon	64800000
+Italy	60788845
+South Africa	54002000
+Burma	51419420
+South Korea	51342881
+Colombia	48098100
+Tanzania	47421786
+Kenya	46749000
+Spain	46464053
+Argentina	43131966
+Ukraine	42895704
+Algeria	39500000
+Poland	38484000
+Sudan	38435252
+Iraq	36004552
+Canada	35702707
+Uganda	34856813
+Morocco	33848242
+Saudi Arabia	31521418
+Peru	31151643
+Venezuela	30620404
+Malaysia	30562200
+Uzbekistan	30492800
+Nepal	28037904
+Ghana	27043093
+Afghanistan	26556800
+Yemen	25956000
+Mozambique	25727911
+North Korea	25155000
+Angola	24383301
+Australia	23821900
+Taiwan	23449287
+Syria	23163313
+Ivory Coast	22671331
+Madagascar	21842167
+Cameroon	21143237
+Sri Lanka	20675000
+Romania	19942642
+Niger	19268000
+Burkina Faso	18450494
+Chile	18006407
+Kazakhstan	17458500
+Netherlands	16899600
+Malawi	16310431
+Mali	16259000
+Guatemala	15806675
+Zambia	15473905
+Ecuador	15466000
+Cambodia	15405157
+Chad	13606000
+Senegal	13508715
+Zimbabwe	13061239
+South Sudan	11892934
+Bolivia	11410651
+Belgium	11239755
+Cuba	11210064
+Somalia	11123000
+Rwanda	10996891
+Greece	10992589
+Tunisia	10982754
+Haiti	10911819
+Guinea	10628972
+Czech Republic	10538275
+Portugal	10477800
+Dominican Republic	10378267
+Benin	10315244
+Hungary	9849000
+Burundi	9823827
+Sweden	9760142
+Azerbaijan	9611700
+United Arab Emirates	9577000
+Belarus	9481000
+Honduras	8725111
+Austria	8579747
+Tajikistan	8354000
+Israel	8345000
+Switzerland	8211700
+Papua New Guinea	7398500
+Hong Kong	7264100
+Bulgaria	7202198
+Togo	7171000
+Serbia	7146759
+Paraguay	7003406
+Laos	6802000
+Eritrea	6738000
+Jordan	6721780
+El Salvador	6401240
+Sierra Leone	6319000
+Libya	6317000
+Nicaragua	6134270
+Kyrgyzstan	5915300
+Denmark	5659715
+Finland	5478002
+Singapore	5469700
+Slovakia	5421349
+Norway	5165802
+Central African Republic	4803000
+Costa Rica	4773130
+Turkmenistan	4751120
+Palestine	4682467
+Republic of the Congo	4671000
+Ireland	4609600
+New Zealand	4577530
+Liberia	4503000
+Georgia	4490500
+Croatia	4267558
+Oman	4161705
+Lebanon	4104000
+Bosnia and Herzegovina	3791622
+Panama	3764166
+Mauritania	3631775
+Moldova	3555200
+Puerto Rico	3548397
+Uruguay	3404189
+Kuwait	3268431
+Mongolia	3015207
+Armenia	3013900
+Lithuania	2916443
+Albania	2893005
+Jamaica	2717991
+Qatar	2334029
+Namibia	2280700
+Lesotho	2120000
+Slovenia	2066407
+Macedonia	2065769
+Botswana	2056000
+Latvia	1985600
+The Gambia	1882450
+Kosovo	1827231
+Guinea-Bissau	1788000
+Gabon	1751000
+Equatorial Guinea	1430000
+Trinidad and Tobago	1328019
+Bahrain	1316500
+Estonia	1312252
+Mauritius	1261208
+East Timor	1212107
+Swaziland	1119375
+Djibouti	900000
+Fiji	859178
+Cyprus	858000
+Reunion	844994
+Comoros	763952
+Bhutan	759740
+Guyana	746900
+Macau	636200
+Montenegro	620029
+Solomon Islands	581344
+Luxembourg	562958
+Suriname	534189
+Cape Verde	518467
+Western Sahara	510713
+Transnistria	505153
+Malta	425384
+Guadeloupe	405739
+Brunei	393372
+Martinique	381326
+The Bahamas	368390
+Belize	358899
+Maldives	341256
+Iceland	329100
+Northern Cyprus	294906
+Barbados	285000
+New Caledonia	268767
+French Polynesia	268270
+Vanuatu	264652
+Abkhazia	240705
+French Guiana	239648
+Mayotte	212645
+Samoa	187820
+Sao Tome and Principe	187356
+Saint Lucia	185000
+Guam	159358
+Curacao	154843
+Saint Vincent and the Grenadines	109000
+Aruba	107394
+Kiribati	106461
+United States Virgin Islands	106405
+Grenada	103328
+Tonga	103252
+Federated States of Micronesia	101351
+Jersey	99000
+Seychelles	89949
+Antigua and Barbuda	86295
+Isle Of Man	84497
+Andorra	76949
+Dominica	71293
+Bermuda	64237
+Guernsey	65150
+Marshall Islands	56086
+Greenland	55984
+Cayman Islands	55691
+American Samoa	55519
+Saint Kitts and Nevis	55000
+Northern Mariana Islands	53883
+South Ossetia	51547
+Faroe Islands	48724
+Sint Maarten	37429
+Liechtenstein	37370
+Monaco	36950
+Collectivity of Saint Martin	35742
+San Marino	32789
+Turks and Caicos Islands	31458
+Gibraltar	30001
+Aland Islands	28875
+British Virgin Islands	28054
+Caribbean Netherlands	23296
+Palau	20901
+Cook Islands	14974
+Anguilla	13452
+Wallis and Futuna	13135
+Tuvalu	11323
+Nauru	10084
+Saint Barthelemy	9131
+Saint Pierre and Miquelon	6069
+Montserrat	4922
+"Saint Helens, Ascension and Tristan da Cunha"	4000
+Falkland Islands	3000
+Svalbard and Jan  Mayen	2562
+Norfolk Island	2302
+Christmas Island	2072
+Niue	1613
+Tokelau	1411
+Vatican City	839
+Cocos (Keeling) Islands	550
+Pitcairn Islands	56
